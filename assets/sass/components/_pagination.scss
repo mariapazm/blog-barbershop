@@ -1,0 +1,33 @@
+.paginas {
+  background-color: $platinum;
+  color: $white;
+  padding: 3rem;
+}
+
+.paginas__nav {
+border-radius: 3.75rem;
+}
+.paginas__lista {
+  border-radius: 3.75rem;
+}
+
+.paginas__lista--enlace {
+  background-color: white;
+  color: $eerie-black;
+
+  &:hover {
+    background-color: $nickel;
+    border-color: $platinum;
+    color: $white;
+  }
+}
+
+.paginas__lista--gris {
+  color: $nickel;
+  &:hover {
+    background-color: $nickel;
+    border-color: $platinum;
+    color: $white;
+  }
+
+}

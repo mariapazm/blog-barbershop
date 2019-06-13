@@ -1,0 +1,36 @@
+
+
+.bloque {
+
+}
+
+.bloque__fila {
+  padding: 5rem;
+  line-height: 2rem;
+}
+
+.bloque__fila--centro {
+  padding-top: 4rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.bloque__fila--derecha {
+  padding-top: 4rem;
+  padding-left: -2rem;
+}
+
+.bloque__fila--link {
+  color: $spanish-pink;
+}
+
+
+
+
+//.bloque__titulo {
+//  font-family: $playfair-display;
+//}
+
+//.bloque__imagen {
+//padding: 2rem;
+//}
